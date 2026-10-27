@@ -1,4 +1,4 @@
-const nsfw = ["Scarletprincess [i love rias!]",
+const nsfw = ["A Room I can't Leave Without Having Incestuous Sex with my Mom my Nagging Mother and Rebellious Me","Scarletprincess [i love rias!]",
     "Rias Up. Highschool DxD",
 "Rias Gremory. Hands on Teaching",
 "MINECRAFT LETS FUCK EDITION. Monsters in the Night",
